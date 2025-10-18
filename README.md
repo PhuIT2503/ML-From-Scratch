@@ -46,7 +46,7 @@ ml-from-scratch/
 
 ## 🚀 Cách chạy
 ```bash
-git clone https://github.com/<your-username>/ml-from-scratch.git
+git clone https://github.com/PhuIT2503/ML-From-Scratch
 cd ml-from-scratch/notebooks
 jupyter notebook
 ```
@@ -64,8 +64,8 @@ Mở từng notebook để xem mô hình hoạt động và trực quan hóa k�
 
 **Phan Quyết Tâm Phú**  
 AI Engineer (NLP & Machine Learning)  
-📧 Liên hệ: [your.email@example.com]  
-🌐 GitHub: [github.com/your-username](https://github.com/your-username)
+📧 Liên hệ: tamphu.workhard@gmail.com
+🌐 GitHub: github.com/PhuIT2503(https://github.com/PhuIT2503)
 
 ---
 
