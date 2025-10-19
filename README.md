@@ -17,7 +17,9 @@ ml-from-scratch/
 │   ├── decision_tree.ipynb
 │   └── random_forest.ipynb
 │
-└── README.md
+│── README.md
+│
+└── requirements.txt
 ```
 
 ---
