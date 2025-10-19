@@ -54,12 +54,6 @@ Mở từng notebook để xem mô hình hoạt động và trực quan hóa k�
 
 ---
 
-## 📈 Ví dụ trực quan
-- Logistic Regression Decision Boundary
-- Linear Regression Fit
-
----
-
 ## ✨ Tác giả
 
 **Phan Quyết Tâm Phú**  
