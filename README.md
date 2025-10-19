@@ -48,6 +48,7 @@ ml-from-scratch/
 ```bash
 git clone https://github.com/PhuIT2503/ML-From-Scratch
 cd ml-from-scratch/notebooks
+pip install -r requirements.txt
 jupyter notebook
 ```
 Mở từng notebook để xem mô hình hoạt động và trực quan hóa kết quả.
@@ -59,7 +60,7 @@ Mở từng notebook để xem mô hình hoạt động và trực quan hóa k�
 **Phan Quyết Tâm Phú**  
 AI Engineer (NLP & Machine Learning)  
 📧 Liên hệ: tamphu.workhard@gmail.com
-🌐 GitHub: github.com/PhuIT2503(https://github.com/PhuIT2503)
+🌐 GitHub: https://github.com/PhuIT2503
 
 ---
 
